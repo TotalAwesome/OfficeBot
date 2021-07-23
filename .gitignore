@@ -1,0 +1,7 @@
+/venv
+/__pycache__
+*.session
+*.jpg
+*.png
+*.json
+config.py
